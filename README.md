@@ -54,6 +54,7 @@ Pour toute question, rapport de bug ou collaboration :
 - [Tadomika-Ari](https://github.com/Tadomika-Ari) 
 - [Ugo-Pas](https://github.com/Ugo-Pas) 
 - [mathish06](https://github.com/mathish06)
+  
 Ou ouvrez une issue dans ce dépôt.
 
 Amusez-vous bien !
