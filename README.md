@@ -29,7 +29,8 @@ Vous incarnez Guillaume un étudiant première année chez Epitech Nice, la pisc
 - Assets/ — contenu Unity (scènes, scripts, prefabs, textures, sons)
 - ProjectSettings/ — paramètres du projet Unity (inclut ProjectVersion.txt)
 - README.md — ce fichier
-
+## Demo
+https://github.com/user-attachments/assets/fc106b99-9f87-40e2-9e95-52df6775652d
 ## Équipe & crédits
 Équipe : 5 étudiants première année, Epitech.  
 Membres : 
