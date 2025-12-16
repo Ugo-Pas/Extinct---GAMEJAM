@@ -10,25 +10,22 @@ Extinct est un prototype de jeu d'horreur développé pendant une Game Jam par u
 Ce dépôt contient le projet Unity, les scènes, scripts et ressources utilisés pour le prototype présenté durant la Game Jam.
 
 ## Pitch
-Vous incarnez un protagoniste perdu dans un lieu oppressant. Explorez, évitez les menaces, récupérez des indices et tentez de survivre assez longtemps pour découvrir la vérité sur ce qui s'est produit.
+Vous incarnez Guillaume un étudiant première année chez Epitech Nice, la piscine de première année vient de se finir et Marvin le robot correcteur a volé les codes de la Nintendo Switch. Guillaume doit poursuivre Marvin dans des portails magiques dans différents mondes accompagnés de son fidèle compagnon qui tourne, Darius.
 
 ## Caractéristiques
 - Ambiance sonore et visuelle orientée horreur
-- Exploration et collecte d'objets
 - Mécaniques simples de furtivité / fuite (prototype)
 - Prototype réalisé sous contrainte de temps — gameplay et contenu limités mais extensibles
 
 ## Prérequis
-- Unity Hub
-- La version de Unity utilisée pour le projet : ouvrez `ProjectSettings/ProjectVersion.txt` pour connaître la version exacte recommandée.
-- OS : Windows, macOS ou Linux (selon la plateforme ciblée dans Build Settings)
+- OS : Windows
 
-## Contrôles (exemple — à adapter selon implémentation)
+## Contrôles
 - Déplacement : flèches
 - Sauter : Espace
 - Pause / menu : Esc
 
-## Structure du dépôt (aperçu)
+## Structure du dépôt
 - Assets/ — contenu Unity (scènes, scripts, prefabs, textures, sons)
 - ProjectSettings/ — paramètres du projet Unity (inclut ProjectVersion.txt)
 - README.md — ce fichier
