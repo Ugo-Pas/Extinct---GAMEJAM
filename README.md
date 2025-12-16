@@ -49,7 +49,9 @@ Merci :
 
 ## Contact
 Pour toute question, rapport de bug ou collaboration :
-- GitHub : [Pekkatrol](https://github.com/Pekkatrol)
+
+GitHub : 
+- [Pekkatrol](https://github.com/Pekkatrol)
 - [ColdSkel04](https://github.com/ColdSkel04) 
 - [Tadomika-Ari](https://github.com/Tadomika-Ari) 
 - [Ugo-Pas](https://github.com/Ugo-Pas) 
